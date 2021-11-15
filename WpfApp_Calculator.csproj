@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Screenshot_1.png" />
+    <None Remove="Yuval_Calculator.png" />
+    <None Remove="Yuval_Calculator2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Screenshot_1.png" />
+    <Resource Include="Yuval_Calculator.png" />
+    <Resource Include="Yuval_Calculator2.png" />
+  </ItemGroup>
+
+</Project>
