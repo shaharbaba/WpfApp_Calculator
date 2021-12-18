@@ -8,7 +8,7 @@
         Title="Calculator" Height="400" Width="400">
     <Grid  >
         <Grid.Background>
-            <ImageBrush ImageSource="/Yuval_Calculator2.png"/>
+            <ImageBrush ImageSource="/Calculator.png"/>
         </Grid.Background>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -32,7 +32,7 @@
             <Button x:Name="seven" Height="30" Width="60"  Background="#FF0F0505" Content="7" Foreground="White" Click="numeric_Click"/>
             <Button x:Name="four" Height="30" Width="60" Margin="0,20,0,0" Background="#FF0F0505" Content="4" Foreground="White" Click="numeric_Click"></Button>
             <Button x:Name="one" Height="30" Width="60" Margin="0,20,0,0" Background="#FF0F0505" Content="1" Foreground="White" Click="numeric_Click"></Button>
-            <Button x:Name="minus_plus" Height="30" Width="60" Margin="0,20,0,0" Content="+-" Background="#FF5A5A5A" Click="action_Click"></Button>
+            <Button x:Name="minus_plus" Height="30" Width="60" Margin="0,20,0,0" Content="+-" Background="#FF5A5A5A" Click="minusPlus_Click"></Button>
 
         </StackPanel>
         <StackPanel Grid.Row="2" Grid.Column="1"  Margin="20" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >

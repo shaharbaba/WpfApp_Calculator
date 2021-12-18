@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lr8L/6Iafa8YRReYEAV8AUVVpmBz+NRo2Ugn1z1//+BnqHnsoaYmr19DOCBQjZt0WTVMOvh4LbmHg8IxfQ8CqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\shaharbaba\\WpfApp_Calculator\\WpfApp_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

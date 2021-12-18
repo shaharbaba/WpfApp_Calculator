@@ -9,13 +9,13 @@
   <ItemGroup>
     <None Remove="Screenshot_1.png" />
     <None Remove="Yuval_Calculator.png" />
-    <None Remove="Yuval_Calculator2.png" />
+    <None Remove="Calculator.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Screenshot_1.png" />
     <Resource Include="Yuval_Calculator.png" />
-    <Resource Include="Yuval_Calculator2.png" />
+    <Resource Include="Calculator.png" />
   </ItemGroup>
 
 </Project>

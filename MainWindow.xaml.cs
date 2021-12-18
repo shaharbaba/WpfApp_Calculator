@@ -95,11 +95,11 @@ namespace WpfApp_Calculator
             }
         }
 
-        private void minusPlus_Click(object sender, RoutedEventArgs e)
+        private void minusPlus_Click(object sender, RoutedEventArgs e) 
         {
             Button b = (Button)sender;
 
-            if (b.Content.ToString() == "+-")
+            if (b.Content.ToString() == "+-")       // add + or - to the current number
             {
                 if (operation == "")
                 {
@@ -117,7 +117,7 @@ namespace WpfApp_Calculator
         private void action_Click(object sender, RoutedEventArgs e)
         {
             Button b = (Button)sender;
-            if(operation != "" && firstNum != 0 && secondNum != 0)
+            if(operation != "" )                // checking if it the first time that we do any action.
             {
                 switch (operation)
                 {
